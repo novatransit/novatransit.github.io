@@ -1,5 +1,5 @@
 ---
-title: Access to Opportunity Explained
+title: Access to Opportunity explained
 parent: Access to Opportunity Analysis
 nav_order: 2
 layout: default

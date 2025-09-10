@@ -1,5 +1,5 @@
 ---
-title: Analysis parameters
+title: Parameters
 parent: Access to Opportunity Analysis
 nav_order: 4
 layout: default
