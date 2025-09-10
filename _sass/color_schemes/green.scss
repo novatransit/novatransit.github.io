@@ -2,7 +2,6 @@
 // Custom color scheme: Green
 // Overrides purple colors with #005c3c
 //
-@import "./color_schemes/dark";
 
 // Define the green color palette based on the target color #62bb46
 $green-custom-000: #62bb46; // Main green color
@@ -11,10 +10,10 @@ $green-custom-200: lighten(#62bb46, 30%); // Light green
 $green-custom-300: darken(#62bb46, 15%);  // Darker green
 
 // Override the purple color variables with green equivalents
-$blue-000: $green-custom-000 !default;
-$blue-100: $green-custom-100 !default;
-$blue-200: $green-custom-200 !default;
-$blue-300: $green-custom-300 !default;
+$purple-000: $green-custom-000 !default;
+$purple-100: $green-custom-100 !default;
+$purple-200: $green-custom-200 !default;
+$purple-300: $green-custom-300 !default;
 
 // CRITICAL: Explicitly override ALL link-related colors
 // The documentation states that changing $purple-000 won't automatically change dependent variables
