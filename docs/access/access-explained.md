@@ -2,6 +2,7 @@
 title: Access to Opportunity, Explained
 parent: Access to Opportunity Analysis
 nav_order: 2
+layout: default
 ---
 1. TOC
 {:toc}
