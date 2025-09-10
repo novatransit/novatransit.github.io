@@ -1,9 +1,7 @@
 ---
 title: Access to Opportunity, Explained
-parent: Access
+parent: Access to Opportunity Analysis
 nav_order: 2
-date: 2025-09-09
-modified: 2025-09-09
 ---
 ## What is Access?
 
