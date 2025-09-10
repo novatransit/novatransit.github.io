@@ -3,6 +3,9 @@ title: Access to Opportunity, Explained
 parent: Access to Opportunity Analysis
 nav_order: 2
 ---
+1. TOC
+{:toc}
+
 ## What is Access?
 
 Access to opportunity, also called *"access to destinations"* or *"accessibility"*, or just *access*[^1] is a way to measure how easily people can reach destinations. [^2] This "ease" is usually measured in travel time.
@@ -25,7 +28,7 @@ If you've come from the [Access Dashboard](https://nvtc.maps.arcgis.com/apps/das
 
 ### Travel time
 
-Within a certain travel time, you can only go so far distance-wise - and the further you can go, the more opportunities you can reach. In the documentation of this project, we explain why we chose the [four travel time bands](/documentation/parameters.md) of 30, 45, 60, and 90 minutes that we did - in general, each time band represents a different set of trips that one might want to take, but to put it here:
+Within a certain travel time, you can only go so far distance-wise - and the further you can go, the more opportunities you can reach. In the documentation of this project, we explain why we chose the [four travel time bands](/docs/access/parameters.md) of 30, 45, 60, and 90 minutes that we did - in general, each time band represents a different set of trips that one might want to take, but to put it here:
 
 > * **30 minutes** - Local trips within immediate communities
 > * **45 minutes** - Medium-distance trips to major employment centers  
@@ -68,6 +71,7 @@ Evening service can greatly affect your access to entertainment, dining, and soc
 
 Finally, where you live and what land use affects your access just as much as the transportation options available to you - in fact, they often go hand in hand.
 
+----
 
 [^1]: These terms are fairly interchangeable when used in this context.
 
