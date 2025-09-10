@@ -74,21 +74,21 @@ It's often said that *[the best transportation plan is a good land use plan](htt
 
 There are many factors of land use and the built environment that can influence demand for transit. A good summary of these six factors comes from TransLink in Vancouver, British Columbia, who in their [Transit Service Guidelines](https://www.translink.ca/-/media/translink/documents/plans-and-projects/managing-the-transit-network/transit-oriented-communities/transit-services-guidelines-public-summary.pdf) call them the "6 D's of Transit-Oriented Community Design." To paraphrase them, they are:
 
-* Destinations: Coordination between land use and transportation, which provides places for people to go to
-* Distance: A well-connected street network that encourages walking and makes it easy to connect with transit service
-* Design: Places built with multimodal travel in mind and provide a safe, comfortable, and enjoyable public realm
-* Density: Concentrating growth and activity near high-frequency transit
-* Diversity: A mix of land uses to offer a variety of opportunities
-* Demand management: Strategies applied to promote the use of modes like walking, cycling and transit.
+* **Destinations:** Coordination between land use and transportation, which provides places for people to go to
+* **Distance:** A well-connected street network that encourages walking and makes it easy to connect with transit service
+* **Design:** Places built with multimodal travel in mind and provide a safe, comfortable, and enjoyable public realm
+* **Density:** Concentrating growth and activity near high-frequency transit
+* **Diversity:** A mix of land uses to offer a variety of opportunities
+* **Demand management:** Strategies applied to promote the use of modes like walking, cycling and transit.
 
-Before you even filter by jurisdiction, you can see these factors in action in certain areas of the map. In areas of Northern Virginia that are:
+You can see these factors in action in certain areas of the map even before selecting by jurisdiction. In areas of Northern Virginia that are:
 
-* relatively dense, 
+* relatively dense,
 * have a variety of activity types,  
 * are generally designed with a walkable and connected street grid and
 * are on or near high-frequency transit service,
 
-access is much higher. Examples of places like this include the Rosslyn-Ballston corridor, Pentagon City/Crystal City, Old Town Alexandria, and neighborhoods throughout the region anchored by a Metrorail station.
+Access is much higher. Examples of places like this include the Rosslyn-Ballston corridor, Pentagon City/Crystal City, Old Town Alexandria, and neighborhoods throughout the region anchored by a Metrorail station.
 
 Conversely, areas that are:
 

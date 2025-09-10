@@ -4,6 +4,8 @@ parent: Access to Opportunity Analysis
 nav_order: 4
 layout: default
 ---
+## Analysis parameters
+
 As part of our NoVA Transit Dashboard refresh, NVTC sought out to redefine our access to transit and access to jobs methodology used in the dashboard. This document will cover the analysis parameters used in the Access to Opportunity analysis.
 
 The Access to Opportunity analysis measures how many jobs and destinations residents can reach using public transit within specific time limits. The core research question driving this analysis is: "How many jobs can a resident of Northern Virginia reach on a given day of the week at a specific time of day within a certain travel time using transit?"
