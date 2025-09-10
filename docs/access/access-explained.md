@@ -29,7 +29,7 @@ If you've come from the [Access Dashboard](https://nvtc.maps.arcgis.com/apps/das
 
 ### Travel time
 
-Within a certain travel time, you can only go so far distance-wise - and the further you can go, the more opportunities you can reach. In the documentation of this project, we explain why we chose the [four travel time bands](/docs/access/parameters.md) of 30, 45, 60, and 90 minutes that we did - in general, each time band represents a different set of trips that one might want to take, but to put it here:
+Within a certain travel time, you can only go so far distance-wise - and the further you can go, the more opportunities you can reach. In the documentation of this project, we explain why we chose the [four travel time bands](/docs/access/parameters.html) of 30, 45, 60, and 90 minutes that we did - in general, each time band represents a different set of trips that one might want to take, but to put it here:
 
 > * **30 minutes** - Local trips within immediate communities
 > * **45 minutes** - Medium-distance trips to major employment centers  
