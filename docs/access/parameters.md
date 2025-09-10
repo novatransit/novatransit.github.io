@@ -1,7 +1,7 @@
 ---
-title: Analysis Parameters for Access to Opportunity Analysis
+title: Analysis parameters
 parent: Access to Opportunity Analysis
-nav_order: 3
+nav_order: 4
 layout: default
 ---
 As part of our NoVA Transit Dashboard refresh, NVTC sought out to redefine our access to transit and access to jobs methodology used in the dashboard. This document will cover the analysis parameters used in the Access to Opportunity analysis.

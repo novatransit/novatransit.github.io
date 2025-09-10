@@ -13,7 +13,7 @@ a:hover {
 }
 
 // Navigation links - both parent and child
-.site-nav .nav-list .nav-list-item .nav-list-link .nav.list.expander {
+.site-nav .nav-list .nav-list-item .nav-list-link .nav-list-expander {
   color: #62bb46 !important;
 }
 
@@ -21,7 +21,7 @@ a:hover {
   color: darken(#62bb46, 10%) !important;
 }
 
-.site-nav .nav-list .nav-list-item.active .nav-list-link {
+.site-nav .nav-list .nav-list-item.active .nav-list-link .nav-list-expander {
   color: #62bb46 !important;
   font-weight: 600;
 }
