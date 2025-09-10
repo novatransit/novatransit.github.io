@@ -2,7 +2,9 @@ title: NVTC Documentation
 description: A repository with a GitHub Pages deployment of NVTC's data analysis documentation
 theme: just-the-docs
 
-color_scheme: dark
+color_scheme: green
+
+logo: "https://novatransit.org/wp-content/uploads/NVTC-logo-retina@2x.png"
 
 url: https://novatransit.github.io
 

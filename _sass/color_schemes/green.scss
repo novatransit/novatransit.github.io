@@ -2,12 +2,13 @@
 // Custom color scheme: Green
 // Overrides purple colors with #005c3c
 //
+@import "./color_schemes/dark";
 
-// Define the green color palette based on the target color #005c3c
-$green-custom-000: #005c3c; // Main green color
-$green-custom-100: lighten(#005c3c, 15%); // Lighter green
-$green-custom-200: lighten(#005c3c, 30%); // Light green  
-$green-custom-300: darken(#005c3c, 15%);  // Darker green
+// Define the green color palette based on the target color #62bb46
+$green-custom-000: #62bb46; // Main green color
+$green-custom-100: lighten(#62bb46, 15%); // Lighter green
+$green-custom-200: lighten(#62bb46, 30%); // Light green  
+$green-custom-300: darken(#62bb46, 15%);  // Darker green
 
 // Override the purple color variables with green equivalents
 $purple-000: $green-custom-000 !default;
@@ -27,6 +28,7 @@ $btn-primary-color: $green-custom-100 !default;
 
 // Override navigation and UI elements that use purple
 $nav-child-link-color: $green-custom-000 !default;
+$nav-list-color: $green-custom-000 !default;
 $focus-color: $green-custom-000 !default;
 
 // Override code syntax highlighting colors that use purple
