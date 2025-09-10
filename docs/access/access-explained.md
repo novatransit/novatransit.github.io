@@ -1,19 +1,19 @@
 ---
-title: Access to Opportunity, Explained
+title: Access to Opportunity Explained
 parent: Access to Opportunity Analysis
 nav_order: 2
 layout: default
 ---
-1. TOC
-{:toc}
-
 ## What is Access?
 
 Access to opportunity, also called *"access to destinations"* or *"accessibility"*, or just *access*[^1] is a way to measure how easily people can reach destinations. [^2] This "ease" is usually measured in travel time.
 
 Another way to think of access is, as explained by *Human Transit* author Jarrett Walker, *your ability to go places so that you can do things*, which is further defined by a *[wall around your life](https://humantransit.org/basics-access-or-the-wall-around-your-life)*.
 
-> Whoever you are, and wherever you are, there’s an area you could get to in an amount of time that’s available in your day. That limit defines a wall around your life.  Outside that wall are places you can’t work, places you can’t shop, schools you can’t attend, clubs you can’t belong to, people you can’t hang out with, and a whole world of things you can’t do.
+> Whoever you are, and wherever you are, there’s an area you could get to in an amount of time
+> that’s available in your day. That limit defines a wall around your life.  Outside that wall
+> are places you can’t work, places you can’t shop, schools you can’t attend, clubs you can’t 
+> belong to, people you can’t hang out with, and a whole world of things you can’t do.
 
 In short, access is your ability to get to places and the opportunities those places hold - which can include work, education, amenities, or any number of things.
 
