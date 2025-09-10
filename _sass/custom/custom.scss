@@ -1,16 +1,63 @@
 //
 // Custom styles to supplement the green color scheme
-// This file is for additional customizations beyond color variables
+// This file handles link colors and elements not covered by variables
 //
 
-// Additional green color customizations for elements not covered by variables
+// Force all link colors to use green - this ensures comprehensive coverage
+a {
+  color: #005c3c !important;
+}
+
+a:hover {
+  color: darken(#005c3c, 15%) !important;
+}
+
+// Navigation links - both parent and child
+.site-nav .nav-list .nav-list-item .nav-list-link {
+  color: #005c3c !important;
+}
+
 .site-nav .nav-list .nav-list-item .nav-list-link:hover {
-  color: #005c3c;
+  color: darken(#005c3c, 10%) !important;
 }
 
 .site-nav .nav-list .nav-list-item.active .nav-list-link {
-  color: #005c3c;
+  color: #005c3c !important;
   font-weight: 600;
+}
+
+// Breadcrumb links
+.breadcrumb-nav-list-item a {
+  color: #005c3c !important;
+}
+
+// Aux links (header links)
+.aux-nav .aux-nav-list .aux-nav-list-item .aux-nav-list-link {
+  color: #005c3c !important;
+}
+
+// Footer links
+.site-footer a {
+  color: #005c3c !important;
+}
+
+// Content area links
+.main-content a {
+  color: #005c3c !important;
+}
+
+// Table of contents links
+.toc .nav-list .nav-list-item .nav-list-link {
+  color: #005c3c !important;
+}
+
+// Search result links
+.search-result-title {
+  color: #005c3c !important;
+}
+
+.search-result-title:hover {
+  color: darken(#005c3c, 10%) !important;
 }
 
 // Customize search results highlighting
@@ -36,18 +83,18 @@ th {
 
 // Customize button hover states
 .btn-primary:hover {
-  background-color: darken(#005c3c, 10%);
-  border-color: darken(#005c3c, 10%);
+  background-color: darken(#005c3c, 10%) !important;
+  border-color: darken(#005c3c, 10%) !important;
 }
 
 // Customize anchor links
 .anchor-heading:hover {
-  color: #005c3c;
+  color: #005c3c !important;
 }
 
 // Customize mobile menu toggle
 .site-button:hover {
-  color: #005c3c;
+  color: #005c3c !important;
 }
 
 // Additional focus states for accessibility
