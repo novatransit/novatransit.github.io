@@ -1,0 +1,57 @@
+//
+// Custom styles to supplement the green color scheme
+// This file is for additional customizations beyond color variables
+//
+
+// Additional green color customizations for elements not covered by variables
+.site-nav .nav-list .nav-list-item .nav-list-link:hover {
+  color: #005c3c;
+}
+
+.site-nav .nav-list .nav-list-item.active .nav-list-link {
+  color: #005c3c;
+  font-weight: 600;
+}
+
+// Customize search results highlighting
+.search-result-highlight {
+  background-color: rgba(0, 92, 60, 0.1);
+  border-left: 3px solid #005c3c;
+}
+
+// Customize code block borders
+.highlight {
+  border-left: 3px solid #005c3c;
+}
+
+// Customize blockquote borders
+blockquote {
+  border-left: 4px solid #005c3c;
+}
+
+// Customize table headers
+th {
+  background-color: rgba(0, 92, 60, 0.1);
+}
+
+// Customize button hover states
+.btn-primary:hover {
+  background-color: darken(#005c3c, 10%);
+  border-color: darken(#005c3c, 10%);
+}
+
+// Customize anchor links
+.anchor-heading:hover {
+  color: #005c3c;
+}
+
+// Customize mobile menu toggle
+.site-button:hover {
+  color: #005c3c;
+}
+
+// Additional focus states for accessibility
+*:focus {
+  outline: 2px solid #005c3c;
+  outline-offset: 2px;
+}
