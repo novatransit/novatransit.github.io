@@ -1,7 +1,7 @@
 ---
 title: Access to Opportunity, Explained
 parent: Access
-nav_order: 1
+nav_order: 2
 date: 2025-09-09
 modified: 2025-09-09
 ---
