@@ -6,8 +6,6 @@ color_scheme: green
 
 logo: "https://novatransit.org/wp-content/uploads/NVTC-logo-retina@2x.png"
 
-url: https://novatransit.github.io
-
 aux_links:
   NVTC website:
     - https://novatransit.org
