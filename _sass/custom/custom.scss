@@ -1,0 +1,104 @@
+//
+// Custom styles to supplement the green color scheme
+// This file handles link colors and elements not covered by variables
+//
+
+// Force all link colors to use green - this ensures comprehensive coverage
+a {
+  color: #62bb46 !important;
+}
+
+a:hover {
+  color: darken(#62bb46, 15%) !important;
+}
+
+// Navigation links - both parent and child
+.site-nav .nav-list .nav-list-item .nav-list-link .nav.list.expander {
+  color: #62bb46 !important;
+}
+
+.site-nav .nav-list .nav-list-item .nav-list-link:hover {
+  color: darken(#62bb46, 10%) !important;
+}
+
+.site-nav .nav-list .nav-list-item.active .nav-list-link {
+  color: #62bb46 !important;
+  font-weight: 600;
+}
+
+// Breadcrumb links
+.breadcrumb-nav-list-item a {
+  color: #62bb46 !important;
+}
+
+// Aux links (header links)
+.aux-nav .aux-nav-list .aux-nav-list-item .aux-nav-list-link {
+  color: #62bb46 !important;
+}
+
+// Footer links
+.site-footer a {
+  color: #62bb46 !important;
+}
+
+// Content area links
+.main-content a {
+  color: #62bb46 !important;
+}
+
+// Table of contents links
+.toc .nav-list .nav-list-item .nav-list-link {
+  color: #62bb46 !important;
+}
+
+// Search result links
+.search-result-title {
+  color: #62bb46 !important;
+}
+
+.search-result-title:hover {
+  color: darken(#62bb46, 10%) !important;
+}
+
+// Customize search results highlighting
+.search-result-highlight {
+  background-color: rgba(0, 92, 60, 0.1);
+  border-left: 3px solid #62bb46;
+}
+
+// Customize code block borders
+.highlight {
+  border-left: 3px solid #62bb46;
+}
+
+// Customize blockquote borders
+blockquote {
+  border-left: 4px solid #62bb46;
+}
+
+// Customize table headers
+th {
+  background-color: rgba(0, 92, 60, 0.1);
+}
+
+// Customize button hover states
+.btn-primary:hover {
+  background-color: darken(#62bb46, 10%) !important;
+  border-color: darken(#62bb46, 10%) !important;
+}
+
+// Customize anchor links
+.anchor-heading:hover {
+  color: #62bb46 !important;
+}
+
+// Customize mobile menu toggle
+.site-button:hover {
+  color: #62bb46 !important;
+}
+
+// Additional focus states for accessibility
+*:focus {
+  outline: 2px solid #62bb46;
+  outline-offset: 2px;
+}
