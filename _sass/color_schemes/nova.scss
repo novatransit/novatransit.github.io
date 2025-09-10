@@ -1,0 +1,49 @@
+//
+// Custom color scheme: Green
+// Overrides purple colors with #005c3c
+//
+
+// Define the green color palette based on the target color #005c3c
+$green-custom-000: #005c3c; // Main green color
+$green-custom-100: lighten(#005c3c, 10%); // Slightly lighter
+$green-custom-200: lighten(#005c3c, 20%); // Light green
+$green-custom-300: darken(#005c3c, 10%);  // Darker green
+
+// Override the purple color variables with green equivalents
+$purple-000: $green-custom-000 !default;
+$purple-100: $green-custom-100 !default;
+$purple-200: $green-custom-200 !default;
+$purple-300: $green-custom-300 !default;
+
+// Override key theme colors that use purple
+$link-color: $green-custom-000 !default;
+$btn-primary-color: $green-custom-100 !default;
+
+// Override navigation and UI elements that use purple
+$nav-child-link-color: $green-custom-000 !default;
+$focus-color: $green-custom-000 !default;
+
+// Override code syntax highlighting colors that use purple
+$code-linenumber-color: $green-custom-200 !default;
+
+// Override other purple-based elements
+$border-color: $green-custom-200 !default;
+$table-background-color: lighten($green-custom-000, 45%) !default;
+
+// Override search and interactive elements
+$search-background-color: $white !default;
+$search-result-preview-color: $green-custom-000 !default;
+
+// Override auxiliary link colors
+$aux-link-color: $green-custom-000 !default;
+$aux-link-color-hover: darken($green-custom-000, 15%) !default;
+
+// Override breadcrumb colors
+$breadcrumb-nav-color: $green-custom-000 !default;
+
+// Override TOC colors  
+$toc-border-color: $green-custom-200 !default;
+
+// Override callout colors that might use purple
+$note-color: $green-custom-100 !default;
+$important-color: $green-custom-000 !default;
