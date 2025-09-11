@@ -19,13 +19,27 @@ In short, access is your ability to get to places and the opportunities those pl
 
 ## Why measure access?
 
-We measure access because it provides a clear way of understanding how transportation and transportation investments affect the way that we live, work and play. 
+We measure access because it provides a clear way of understanding how transportation and transportation investments affect the way that we live, work and play.
 
 It also helps us understand how transportation is and isn't meeting our needs - and doesn't aim to make predictions (like traditional modeling does).
 
+## How does the dashboard measure access?
+
+We used a multi-step process to calculate and measure access - all of which is detailed further in the rest of the documentation of this project. The list below summarize some of the key steps needed to take to make this analysis happen.
+
+1. Gather data on demographics (population, jobs, etc.)
+2. Set an analysis area boundary
+3. Generate a grid of hexagons of roughly-equivalent size within the boundary
+4. Join the demographics data with the grid
+5. Define two areas - origins (Northern Virginia) and destinations (Northern Virginia and the rest of the DC region)
+6. Calculate transit travel times across multiple times of day and days of the week given the defined origin and destination areas.
+7. Calculate the number of opportunities reachable from each hex to all hexes up to certain travel time thresholds.
+8. Weight these opportunities reachable against population and other demographics factors.
+9. Get number of opportunities accessible within *X* number of minutes at *Y* time of day on *Z* day of week.
+
 ## Why does access change?
 
-If you've come from the [Access Dashboard](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446), you might be wondering about how each of the variables on the sidebar affect access. In this section, we'll try to explain how and why each variable would affect your access.
+If you've come from the [Access Dashboard](https://nvtc.maps.arcgis.com/apps/dashboards/3bda02cf9d8e4a39ae666dca202d8446), you might be wondering about how each of the variables on the sidebar affect access. In this section, we'll try to explain how and why each variable would affect access.
 
 ### Travel time
 
