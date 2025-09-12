@@ -76,7 +76,6 @@ This type of peak-focused scheduling was standard for most agencies before the p
 
 However, owing to changes in work patterns emerging from the pandemic, many agencies shifted from peak-focused service to service that distributed it throughout the day, often with a focus on the midday period.
 
-![Image explaining representative transit service patterns comparing peak to midday and pre and post pandemic](/assets/images/transit_service_patterns.png)
 
 During midday hours, your access to opportunities like shopping, medical appointments, and social activities may be quite different depending on available transit service. Traditional peak-focused agencies often reduce service significantly during these hours. However, agencies that have adopted more distributed service patterns may actually provide better midday access than they did before the pandemic.
 
