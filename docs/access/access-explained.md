@@ -76,7 +76,6 @@ This type of peak-focused scheduling was standard for most agencies before the p
 
 However, owing to changes in work patterns emerging from the pandemic, many agencies shifted from peak-focused service to service that distributed it throughout the day, often with a focus on the midday period.
 
-
 During midday hours, your access to opportunities like shopping, medical appointments, and social activities may be quite different depending on available transit service. Traditional peak-focused agencies often reduce service significantly during these hours. However, agencies that have adopted more distributed service patterns may actually provide better midday access than they did before the pandemic.
 
 Evening service can greatly affect your access to entertainment, dining, and social opportunities. Many agencies reduce service frequency significantly after 9 PM, and some routes may stop running entirely. This can create a "transportation barrier" to evening activities, particularly for those who depend on transit. The availability of late-night service often determines whether you can participate in evening social and cultural opportunities without needing to rely on other modes.
