@@ -70,10 +70,9 @@ After running the travel time matrix, we then combine the travel time matrices f
 
 Finally, we generate a variety of accessibility statistics based on the accessibility layer. These statistics are not based on the raw "reachable" numbers, but rather population weighted averages. By weighting these values based on population or another demographic value, we are able to more accurately assess how many opportunities each subgroup is able to access.
 
-We generate two types of statistics - one for the entire region and one for each jurisdiction in the NVTC district.[^3]
+We generate two types of statistics - one for the entire region and one for each jurisdiction in the NVTC district.[^2]
 
 ----
 
 [^1]: For more information on this approach see Conway, Matthew Wigginton, Andrew Byrd, and Marco van der Linden (2017). [“Evidence-Based Transit and Land Use Sketch Planning Using Interactive Accessibility Methods on Combined Schedule and Headway-Based Networks.”](http://trrjournalonline.trb.org/doi/abs/10.3141/2653-06)
-[^2]: Not currently applicable for this analysis - however we do have the functionality to compare access based on different GTFS scenarios.
-[^3]: The NVTC district is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.
+[^2]: The NVTC district is defined as Arlington, Fairfax, and Loudoun counties and the cities of Alexandria, Fairfax, and Falls Church.
