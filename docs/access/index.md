@@ -11,7 +11,18 @@ To view the dashboard, visit this link [on ArcGIS Online.](https://nvtc.maps.arc
 
 ## Changelog
 
-### v0.1 (2025-09-11)
+### v2025.09.23
+
+minor update
+{: .label .label-green }
+
+* **Updated:** GTFS files used in analysis to September 2025 release
+* **Updated:** Minor changes in labels to reflect stakeholder feedback
+* **New:** Legend panel added to side of map
+
+### v2025.09.11
 
 initial release
 {: .label .label-blue }
+
+Initial release of the dashboard to internal stakeholders.
