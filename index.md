@@ -4,7 +4,7 @@ layout: home
 ---
 This site is intended to provide documentation of the work that the Northern Virginia Transportation Commission (NVTC) Transit Data and Analysis team does.
 
-To read throug the documentation of our various projects, have a look at the links on the sidebar.
+Each project is listed individually on the sidebar.
 
 For more detailed documentation, have a look at our [GitHub organization page].
 

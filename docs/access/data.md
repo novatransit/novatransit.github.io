@@ -1,6 +1,6 @@
 ---
 title: Data sources
-parent: Access to Opportunity Analysis
+parent: Access to Jobs Analysis
 nav_order: 3
 layout: default
 ---

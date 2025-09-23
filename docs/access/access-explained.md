@@ -1,6 +1,6 @@
 ---
-title: Access to Opportunity explained
-parent: Access to Opportunity Analysis
+title: Access explained
+parent: Access to Jobs Analysis
 nav_order: 2
 layout: default
 ---

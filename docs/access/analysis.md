@@ -1,6 +1,6 @@
 ---
 title: Analysis tools and configuration
-parent: Access to Opportunity Analysis
+parent: Access to Jobs Analysis
 nav_order: 5
 layout: default
 ---
