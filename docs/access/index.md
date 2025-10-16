@@ -16,7 +16,7 @@ To view the dashboard, visit this link [on ArcGIS Online.](https://nvtc.maps.arc
 major release
 {: .label .label-blue }
 
-* Initial release of dashboard to external stakeholders
+Initial release of dashboard to external stakeholders
 
 ### v2025.09.23
 
