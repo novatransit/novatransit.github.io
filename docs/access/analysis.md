@@ -68,9 +68,7 @@ After running the travel time matrix, we then combine the travel time matrices f
 
 ### Accessibility statistics
 
-Finally, we generate a variety of accessibility statistics based on the accessibility layer. These statistics are not based on the raw "reachable" numbers, but rather population weighted averages. By weighting these values based on population or another demographic value, we are able to more accurately assess how many opportunities each subgroup is able to access.
-
-We generate two types of statistics - one for the entire region and one for each jurisdiction in the NVTC district.[^2]
+Finally, we generate a variety of accessibility statistics based on the accessibility layer. These statistics are not based on the raw "reachable" numbers, but rather population weighted averages. By weighting these values based on population or another demographic value, we are able to more accurately assess how many opportunities each subgroup is able to access. We perform this analysis for the entire NVTC district.[^2]
 
 ----
 

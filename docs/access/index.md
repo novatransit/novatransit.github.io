@@ -11,6 +11,13 @@ To view the dashboard, visit this link [on ArcGIS Online.](https://nvtc.maps.arc
 
 ## Changelog
 
+### v2025.10.17
+
+major release
+{: .label .label-blue }
+
+* Initial release of dashboard to external stakeholders
+
 ### v2025.09.23
 
 minor update
