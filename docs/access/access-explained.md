@@ -80,7 +80,9 @@ During midday hours, your access to opportunities like shopping, medical appoint
 
 Evening service can greatly affect your access to entertainment, dining, and social opportunities. Many agencies reduce service frequency significantly after 9 PM, and some routes may stop running entirely. This can create a "transportation barrier" to evening activities, particularly for those who depend on transit. The availability of late-night service often determines whether you can participate in evening social and cultural opportunities without needing to rely on other modes.
 
-### Jurisdiction
+## What else affects access?
+
+### Land use
 
 It's often said that *[the best transportation plan is a good land use plan](https://ssti.us/2025/07/16/the-best-transit-plan-is-a-strong-land-use-plan/)*. Where you live affects access just as much as the transit service that's available to you - in fact, they often go hand in hand.
 
@@ -93,14 +95,14 @@ There are many factors of land use and the built environment that can influence 
 * **Diversity:** A mix of land uses to offer a variety of opportunities
 * **Demand management:** Strategies applied to promote the use of modes like walking, cycling and transit.
 
-You can see these factors in action in certain areas of the map even before selecting by jurisdiction. In areas of Northern Virginia that are:
+You can see these factors in action in certain areas of the map. In areas of Northern Virginia that are:
 
 * relatively dense,
 * have a variety of activity types,  
 * are generally designed with a walkable and connected street grid and
 * are on or near high-frequency transit service,
 
-Access is much higher. Examples of places like this include the Rosslyn-Ballston corridor, Pentagon City/Crystal City, Old Town Alexandria, and neighborhoods throughout the region anchored by a Metrorail station.
+access is much higher. Examples of places like this include the Rosslyn-Ballston corridor, Pentagon City/Crystal City, Old Town Alexandria, and neighborhoods throughout the region anchored by a Metrorail station.
 
 Conversely, areas that are:
 
@@ -110,8 +112,6 @@ Conversely, areas that are:
 * are farther away from high-frequency transit service
 
 have lower levels of access.
-
-Jurisdictions that have more of the former kind of land use tend to have higher levels of access, while jurisdictions with the latter kind of land use have lower levels of access. However, it's not always evenly distributed across each jurisdiction, which is why we show both a map with details of jobs reachable and statistics calculated for each jurisdiction.
 
 ----
 
